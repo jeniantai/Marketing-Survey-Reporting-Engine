@@ -3,7 +3,6 @@ title: "Marketing Apps"
 output: flexdashboard::flex_dashboard
 runtime: shiny
 ---
-# play around with my dashboard here: https://clairewu.shinyapps.io/SurveyReportingEngine/
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
